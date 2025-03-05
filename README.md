@@ -1,6 +1,6 @@
 # Hey, I'm Mohamed Faizal 
 
-🚀 **Building the web, one line of code at a time!**  
+🚀 **Turning ideas into powerful applications!**  
 
 I’m a **Full-Stack Developer** with over **10 years of experience**, crafting high-performance web and mobile applications. Whether it's **Laravel**, **Vue.js**, or **React Native**, I bring ideas to life with scalable and efficient code. Passionate about **eCommerce, APIs, and automation**, I create solutions that drive businesses forward.
 
